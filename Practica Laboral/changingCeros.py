@@ -42,9 +42,7 @@ for key, values in dataframes.items():
                     df = sm.calcularPromedioEspecial(df, pos, numColumna)
                     posicionesCambiadas.append(pos)
                     CuentaTotal+=1
-                    #print("si")
-        #print(len(posicionesCambiadas))
-        #print(posicionesCambiadas)
+         
     for columna in df.columns[1:]:
          for pos,valor in enumerate(df[columna]):
              #print(columna)
