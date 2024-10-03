@@ -1,0 +1,19 @@
+Columna: irradiancia
+Min: 2.450750630012935e-12
+Max: 10799.0
+
+Columna: tambiente
+Min: 7.037204511425322e-07
+Max: 65.6
+
+Columna: tmodulo
+Min: 6.89075503942781e-07
+Max: 333.1
+
+Columna: potencia
+Min: 7.780160730199794e-16
+Max: 1765.0
+
+Total de Filas analisadas: 8709
+Total de Filas con 0: 1161
+Total de Filas: 9870
